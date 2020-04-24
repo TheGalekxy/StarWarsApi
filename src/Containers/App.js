@@ -18,15 +18,15 @@ class App extends Component {
     componentDidMount() {       
         
         const urls = [
-            'https://swapi.co/api/people/',
-            'https://swapi.co/api/people/?page=2',
-            'https://swapi.co/api/people/?page=3',
-            'https://swapi.co/api/people/?page=4',
-            'https://swapi.co/api/people/?page=5',
-            'https://swapi.co/api/people/?page=6',
-            'https://swapi.co/api/people/?page=7',
-            'https://swapi.co/api/people/?page=8',
-            'https://swapi.co/api/people/?page=9'
+            'https://swapi.py4e.com/api/people/',
+            'https://swapi.py4e.com/api/people/?page=2',
+            'https://swapi.py4e.com/api/people/?page=3',
+            'https://swapi.py4e.com/api/people/?page=4',
+            'https://swapi.py4e.com/api/people/?page=5',
+            'https://swapi.py4e.com/api/people/?page=6',
+            'https://swapi.py4e.com/api/people/?page=7',
+            'https://swapi.py4e.com/api/people/?page=8',
+            'https://swapi.py4e.com/api/people/?page=9'
           ]
 
           const getData = async () => {
