@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/StarWarsApi/static/css/main.daca2336.chunk.css",
-    "main.js": "/StarWarsApi/static/js/main.13406877.chunk.js",
-    "main.js.map": "/StarWarsApi/static/js/main.13406877.chunk.js.map",
-    "runtime-main.js": "/StarWarsApi/static/js/runtime-main.fdf555d9.js",
-    "runtime-main.js.map": "/StarWarsApi/static/js/runtime-main.fdf555d9.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/StarWarsApi/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.86317df3.chunk.js": "/StarWarsApi/static/js/2.86317df3.chunk.js",
-    "static/js/2.86317df3.chunk.js.map": "/StarWarsApi/static/js/2.86317df3.chunk.js.map",
-    "index.html": "/StarWarsApi/index.html",
-    "precache-manifest.d225797388bbf74e8799f03f3fd254cd.js": "/StarWarsApi/precache-manifest.d225797388bbf74e8799f03f3fd254cd.js",
-    "service-worker.js": "/StarWarsApi/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/StarWarsApi/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.daca2336.chunk.css.map": "/StarWarsApi/static/css/main.daca2336.chunk.css.map",
-    "static/js/2.86317df3.chunk.js.LICENSE.txt": "/StarWarsApi/static/js/2.86317df3.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/StarWarsApi/static/media/Strjmono.bb3fdf4f.woff"
+    "main.css": "/static/css/main.be9cf2ec.chunk.css",
+    "main.js": "/static/js/main.72ec61a6.chunk.js",
+    "main.js.map": "/static/js/main.72ec61a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ef29927.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ef29927.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.86317df3.chunk.js": "/static/js/2.86317df3.chunk.js",
+    "static/js/2.86317df3.chunk.js.map": "/static/js/2.86317df3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ca33a0b521b4030c8cccb4dfd69349c5.js": "/precache-manifest.ca33a0b521b4030c8cccb4dfd69349c5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.be9cf2ec.chunk.css.map": "/static/css/main.be9cf2ec.chunk.css.map",
+    "static/js/2.86317df3.chunk.js.LICENSE.txt": "/static/js/2.86317df3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Strjmono.bb3fdf4f.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.fdf555d9.js",
+    "static/js/runtime-main.5ef29927.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.86317df3.chunk.js",
-    "static/css/main.daca2336.chunk.css",
-    "static/js/main.13406877.chunk.js"
+    "static/css/main.be9cf2ec.chunk.css",
+    "static/js/main.72ec61a6.chunk.js"
   ]
 }
