@@ -9,11 +9,11 @@ const CardList = ({ people }) => {
                 people.map((user, i) => { // second part of a map is always the index (i)
                     return ( 
                         <Card 
-                        key={people[i].url} 
-                        species={people[i].species} 
-                        name={people[i].name} 
-                        gender={people[i].gender} 
-                        weight={people[i].mass}
+                        key={people[i].url || '1'} 
+                        species={ people[i].species || 'unknown'} 
+                        name={people[i].name || 'Adam'} 
+                        gender={people[i].gender || 'Male'} 
+                        weight={people[i].mass || 'Too Much'}
                         />
                         );
                     })
@@ -23,5 +23,13 @@ const CardList = ({ people }) => {
     );
     
 }
+
+// Card.defaultProps = {
+//     key: '1', 
+//     species: '1', 
+//     name: 'Adam',
+//     gender: 'Male',  
+//     weight: 'Too Much'
+// }
 
 export default CardList;
